@@ -35,4 +35,4 @@ O site é dividido em várias seções:
 
 ---
 
-Obrigado por visitar o repositório do projeto Code Café! Esperamos que tenha gostado do nosso trabalho. Se tiver alguma sugestão ou feedback, sinta-se à vontade para nos contatar. Apreciamos sua participação!
+Obrigado por visitar o repositório do projeto Code Café! Espero que tenha gostado.
