@@ -4,7 +4,7 @@ Bem-vindo(a) ao repositório do projeto Code Café! Este é o arquivo `README` q
 
 ## Sobre o Projeto
 
-O Code Café é um site de uma cafeteria que oferece cafés gourmet de alta qualidade. O projeto consiste em uma página web desenvolvida em HTML, CSS e JavaScript para apresentar os diferentes aspectos do estabelecimento, como informações sobre a empresa, localização e detalhes de contato.
+O Code Café é um site de uma cafeteria que oferece cafés gourmet de alta qualidade. O projeto consiste em uma página web desenvolvida em HTML, CSS para apresentar os diferentes aspectos do estabelecimento, como informações sobre a empresa, localização e detalhes de contato.
 
 ## Estrutura do Projeto
 
